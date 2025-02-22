@@ -13,6 +13,7 @@ I applied to study at the validator school
 
 The training at the Validator School starts on January 17, 2025 for 5 weeks.
 
-# 17/02/2025
+# 22/02/2025
 
-At my diploma defense I will launch the Persistence network
+Defended and received a diploma from the school of validators
+![Screenshot_5](https://github.com/user-attachments/assets/877f21d2-f454-429d-a1f6-82c8d10e460f)
